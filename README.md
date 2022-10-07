@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esechy&layout=compact&theme=dark)
+[![Discord Presence](https://lanyard.cnrad.dev/api/515936835944448020)](https://discord.com/users/515936835944448020)
