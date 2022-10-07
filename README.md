@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esechy&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esechy&layout=compact&theme=dark)
