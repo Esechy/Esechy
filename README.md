@@ -21,8 +21,7 @@
 
 
 <h2 align="center"> Statistic and Skills <h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&locale=en" alt="esechy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esechy&" alt="esechy" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&locale=en" alt="esechy" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=esechy&" alt="esechy" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esechy)](https://github.com/Esechy/Esechy)
@@ -35,3 +34,6 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esechy&label=Profile%20views&color=0e75b6&style=flat" alt="esechy" /></p>
+
+
+https://wakatime.com/badge/user/42853a7e-4a12-41c4-8a71-5b5d5b229047.svg
