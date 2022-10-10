@@ -1,4 +1,4 @@
-name: Metrics
+name: Update profile
 on:
   workflow_dispatch:
   schedule: [{cron: "0 0 * * *"}]
@@ -38,3 +38,22 @@ jobs:
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Generate snek
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake.svg?palette=github-dark
+      - name: Commit snek
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+          git add snake.svg
+          git commit -m "Update snek"
+      - name: Push snek
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.SNAKE_TOKEN }}
+          branch: ${{ github.ref }}
