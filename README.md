@@ -1,36 +1,30 @@
-<h1 align="center">Hi 👋, I'm Esechy</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+# Hey There! I'm Esechy 👋
 
-
+**A passionate frontend developer from France**
 - 🌱 I’m currently learning **PHP and I am in a professional baccalaureate in Digital Science**
 
-- 📫 How to reach me **eschy.contact@gmail.com**
-<h2 align="center"><h2>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/esechy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esechy" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9VbphphwGU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9VbphphwGU" height="30" width="40" /></a>
-<a href="/https://www.polywork.com/esechy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.polywork.com/esechy" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me **eschy.contact@gmail.com**  
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ai,linux,twitter,discord" />
+  </a>
 
+ㅤ
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+![ProfilViews](https://komarev.com/ghpvc/?username=esechy&color=brightgreen)
+![Wakatime](https://wakatime.com/badge/user/42853a7e-4a12-41c4-8a71-5b5d5b229047.svg)
 
+<details>
+  <summary>⚡ Wakatime</summary>
 
-
-<h2 align="center"> Statistic and Skills <h2>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=esechy&show_icons=true&locale=en" alt="esechy" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=esechy&" alt="esechy" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esechy)](https://github.com/Esechy/Esechy)
-
-
-
-<h2 align="center"> Discord Presence and views github<h2>
+<div align = center>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/515936835944448020)](https://discord.com/users/515936835944448020)
+  
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=esechy&label=Profile%20views&color=0e75b6&style=flat" alt="esechy" /></p>
+<a href="https://wakatime.com/@Esechy" target="_blank">
+	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Esechy&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+</div>
+</details>
