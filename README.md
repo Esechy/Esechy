@@ -34,6 +34,3 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esechy&label=Profile%20views&color=0e75b6&style=flat" alt="esechy" /></p>
-
-
-https://wakatime.com/badge/user/42853a7e-4a12-41c4-8a71-5b5d5b229047.svg
