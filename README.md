@@ -33,7 +33,6 @@
         <td align="right">Contact</td>
         <td><img src="https://skillicons.dev/icons?i=discord,twitter" height="35px"/></td>
       </tr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </table>
   </details>
 </div>
