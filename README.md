@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 Hey, I'm Esechy,🖐<br> 
-I'm from Nantes where I studied digital sciences in a high school<br>
+I'm from Nantes where I studie digital sciences in a high school<br>
 I am a front end developer in html and css
 
 ![ProfilViews](https://komarev.com/ghpvc/?username=esechy&color=blue)
