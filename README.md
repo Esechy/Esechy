@@ -1,7 +1,7 @@
-<img src="/metrics.svg" width="50%"/><img src="/other.svg" width="50%"/>
-<div align="center">
-  <img src="/snake.svg" width="80%">
-  </br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+Hey, I'm Esechy,🖐<br> 
+I'm from Nantes where I studied digital sciences in a high school<br>
+I am a front end developer in html and css
 
 ![ProfilViews](https://komarev.com/ghpvc/?username=esechy&color=blue)
 ![Wakatime](https://wakatime.com/badge/user/42853a7e-4a12-41c4-8a71-5b5d5b229047.svg)
@@ -38,3 +38,4 @@
 	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Esechy&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
   </details>
 </div>
+<img src="https://imgur.com/rilHVxA.png"/>
